@@ -1,0 +1,4 @@
+-   Install npde latest version
+-   Install pnpm i
+-   run project with pnpm dev
+-   Configure system variables PNPM_Home - C:\Users\darakshan.mughal\AppData\Local\pnpm
